@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    android:id="@+id/FrameLayoutAcc"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="760dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#Fefefe"
+    tools:context=".AccFragment">
+
+    <FrameLayout
+        android:id="@+id/layoutAbout2"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:background="@drawable/background_rounded3"
+        android:backgroundTint="#848484"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="163dp" >
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardProfile"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        app:cardCornerRadius="60dp"
+        android:layout_marginStart="150dp"
+        android:layout_marginTop="40dp">
+
+        <ImageView
+            android:id="@+id/imageProfile"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="centerCrop"
+            android:background="@drawable/profile2"/>
+
+
+    </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/textViewAcc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Anna Marie"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="150dp"/>
+
+    </FrameLayout>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:context=".AccFragment">
+
+        <ImageView
+            android:id="@+id/imageViewEmail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="240dp"
+            android:src="@drawable/acc_email"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textViewAccEmail1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Email "
+        android:textSize="15sp"
+        android:textColor="#ADADAD"
+        android:layout_marginTop="240dp"
+        android:layout_marginStart="10dp"
+        app:layout_constraintStart_toEndOf="@id/imageViewEmail"
+       app:layout_constraintTop_toTopOf="parent"/>
+
+    <TextView
+        android:id="@+id/textViewAccEmail2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Annam@gmail.com"
+        android:textSize="20dp"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccEmail1"
+        app:layout_constraintStart_toStartOf="parent"/>
+
+
+    <ImageView
+        android:id="@+id/imageViewPerson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/acc_person"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintTop_toBottomOf="@id/imageViewEmail"
+        app:layout_constraintStart_toStartOf="parent"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPerson"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Username "
+        android:textSize="15sp"
+        android:textColor="#ADADAD"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="18dp"
+        android:contentDescription="username"
+        app:layout_constraintStart_toEndOf="@id/imageViewPerson"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccEmail2"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPerson2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="10dp"
+        android:text="Anna Marie"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPerson"/>
+
+
+    <ImageView
+        android:id="@+id/imageViewPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/acc_phone"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageViewPerson"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPhone1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Telephone "
+        android:textSize="15sp"
+        android:textColor="#ADADAD"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toEndOf="@id/imageViewPhone"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPerson2"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPhone2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0812345"
+        android:textSize="20dp"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPhone1"/>
+
+
+    <ImageView
+        android:id="@+id/imageViewPass"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/baseline_key_24"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="50dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imageViewPhone"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPass1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Password"
+        android:textSize="15sp"
+        android:textColor="#ADADAD"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintStart_toEndOf="@id/imageViewPass"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPhone2"
+        />
+
+    <TextView
+        android:id="@+id/textViewAccPass2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="aaaa"
+        android:textSize="20dp"
+        android:layout_marginStart="74dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPass1"/>
+
+
+    <Button
+        android:id="@+id/buttonEditAcc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Edit"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="110dp"
+        android:backgroundTint="#f8d7da"
+        android:textColor="@color/black"
+        app:layout_constraintTop_toBottomOf="@id/textViewAccPass2"
+       app:layout_constraintStart_toStartOf="parent" />
+
+        <Button
+            android:id="@+id/buttonDeleteAcc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="110dp"
+            android:layout_marginTop="20dp"
+            android:backgroundTint="#f8d7da"
+            android:text="Delete"
+            android:textColor="@color/black"
+            app:layout_constraintStart_toStartOf="@id/buttonEditAcc"
+            app:layout_constraintTop_toBottomOf="@id/textViewAccPass2"/>
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+
+</FrameLayout>

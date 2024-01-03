@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/card_layout_acc.xml",
+        "source": "com.example.soalria.app-main-55:/layout/card_layout_acc.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/card_layout_menu.xml",
+        "source": "com.example.soalria.app-main-55:/layout/card_layout_menu.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_rate.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_rate.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_about.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_about.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/activity_add_menu.xml",
+        "source": "com.example.soalria.app-main-55:/layout/activity_add_menu.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/activity_registrasi.xml",
+        "source": "com.example.soalria.app-main-55:/layout/activity_registrasi.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/activity_welcome.xml",
+        "source": "com.example.soalria.app-main-55:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_acc.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_acc.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/activity_login.xml",
+        "source": "com.example.soalria.app-main-55:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_acc_edit.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_acc_edit.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/card_layout_food.xml",
+        "source": "com.example.soalria.app-main-55:/layout/card_layout_food.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_menu.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_first.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/content_add_menu.xml",
+        "source": "com.example.soalria.app-main-55:/layout/content_add_menu.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/activity_main.xml",
+        "source": "com.example.soalria.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_second.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_second.xml"
+    },
+    {
+        "merged": "com.example.soalria.app-mergeDebugResources-52:/layout/fragment_home.xml",
+        "source": "com.example.soalria.app-main-55:/layout/fragment_home.xml"
+    }
+]

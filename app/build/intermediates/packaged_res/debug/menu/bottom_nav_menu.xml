@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/fragmentHome"
+        android:title="Home"
+        android:icon="@drawable/home_white"/>
+
+    <item android:id="@+id/fragmentAbout"
+        android:title="About"
+        android:icon="@drawable/about_white"/>
+
+    <item android:id="@+id/fragmentMenu"
+        android:title="Menu"
+        android:icon="@drawable/menu_white"/>
+
+    <item android:id="@+id/fragmentRate"
+        android:title="Rate"
+        android:icon="@drawable/rate_white"/>
+
+    <item android:id="@+id/fragmentAccount"
+        android:title="Account"
+        android:icon="@drawable/acc_white"/>
+
+
+</menu>

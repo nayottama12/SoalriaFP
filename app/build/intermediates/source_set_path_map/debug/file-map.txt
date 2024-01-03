@@ -1,0 +1,56 @@
+com.example.soalria.app-emoji2-views-helper-1.2.0-0 C:\Users\ASUS\.gradle\caches\transforms-3\040441c4f6b0a4fe05aeab3599f3b82f\transformed\emoji2-views-helper-1.2.0\res
+com.example.soalria.app-customview-poolingcontainer-1.0.0-1 C:\Users\ASUS\.gradle\caches\transforms-3\10e1287d10e9d3c2fd66a104d3145621\transformed\customview-poolingcontainer-1.0.0\res
+com.example.soalria.app-lifecycle-runtime-ktx-2.6.2-2 C:\Users\ASUS\.gradle\caches\transforms-3\1353dbdbf465fc7a883833f5064576e4\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.soalria.app-savedstate-1.2.1-3 C:\Users\ASUS\.gradle\caches\transforms-3\161b6950168ea19f1779bdac70fa7185\transformed\savedstate-1.2.1\res
+com.example.soalria.app-lifecycle-viewmodel-2.6.2-4 C:\Users\ASUS\.gradle\caches\transforms-3\1cfe7982e713c34c0e6a5f5c336fa2db\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.soalria.app-play-services-basement-18.1.0-5 C:\Users\ASUS\.gradle\caches\transforms-3\343aa464f4c24289fe0bcae3fe14ae17\transformed\play-services-basement-18.1.0\res
+com.example.soalria.app-fragment-1.6.2-6 C:\Users\ASUS\.gradle\caches\transforms-3\3f21e18e7199b8b448cd6c55ab3d2f4c\transformed\fragment-1.6.2\res
+com.example.soalria.app-emoji2-1.2.0-7 C:\Users\ASUS\.gradle\caches\transforms-3\3ffd57255e6f9966dfb3d4f8b250b487\transformed\emoji2-1.2.0\res
+com.example.soalria.app-startup-runtime-1.1.1-8 C:\Users\ASUS\.gradle\caches\transforms-3\404c5abac2f5aceef40f4cf146536d36\transformed\startup-runtime-1.1.1\res
+com.example.soalria.app-transition-1.4.1-9 C:\Users\ASUS\.gradle\caches\transforms-3\43fcff4430c6dedda0424e8c78bb7ce4\transformed\transition-1.4.1\res
+com.example.soalria.app-constraintlayout-2.1.4-10 C:\Users\ASUS\.gradle\caches\transforms-3\4dae1036e86902b2f055441e14dfca0a\transformed\constraintlayout-2.1.4\res
+com.example.soalria.app-viewpager2-1.1.0-beta02-11 C:\Users\ASUS\.gradle\caches\transforms-3\4ef7bccc83d8ad0e7eba5ca2a7f45bfd\transformed\viewpager2-1.1.0-beta02\res
+com.example.soalria.app-recyclerview-1.3.2-12 C:\Users\ASUS\.gradle\caches\transforms-3\522494b8083bc8a3c957be928bbeedd0\transformed\recyclerview-1.3.2\res
+com.example.soalria.app-lifecycle-livedata-core-2.6.2-13 C:\Users\ASUS\.gradle\caches\transforms-3\544a67e79d73e79cbf0d3a35d8ecc6f4\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.soalria.app-core-ktx-1.9.0-14 C:\Users\ASUS\.gradle\caches\transforms-3\5491ac3847804173a46dcdec37a7c63f\transformed\core-ktx-1.9.0\res
+com.example.soalria.app-navigation-runtime-2.7.6-15 C:\Users\ASUS\.gradle\caches\transforms-3\5665b91d0a335ced9627c1466ef5b054\transformed\navigation-runtime-2.7.6\res
+com.example.soalria.app-navigation-fragment-2.7.6-16 C:\Users\ASUS\.gradle\caches\transforms-3\5d5148b76f95a53e71b770000524ecf0\transformed\navigation-fragment-2.7.6\res
+com.example.soalria.app-appcompat-1.6.1-17 C:\Users\ASUS\.gradle\caches\transforms-3\60c55cbef2e6cdef5b8f3b785c00f588\transformed\appcompat-1.6.1\res
+com.example.soalria.app-lifecycle-viewmodel-savedstate-2.6.2-18 C:\Users\ASUS\.gradle\caches\transforms-3\63009b24c92b323c7175c3dffaf1596b\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.soalria.app-navigation-common-2.7.6-19 C:\Users\ASUS\.gradle\caches\transforms-3\64b3cefc8c57105f9e9bee9f083e8802\transformed\navigation-common-2.7.6\res
+com.example.soalria.app-navigation-ui-ktx-2.7.6-20 C:\Users\ASUS\.gradle\caches\transforms-3\6b054025ec9f0aa03416754a584edb41\transformed\navigation-ui-ktx-2.7.6\res
+com.example.soalria.app-annotation-experimental-1.3.0-21 C:\Users\ASUS\.gradle\caches\transforms-3\70d510d1ea77f94adf002972dd3d1d16\transformed\annotation-experimental-1.3.0\res
+com.example.soalria.app-navigation-common-ktx-2.7.6-22 C:\Users\ASUS\.gradle\caches\transforms-3\7119e515319c12422a4cd3ec51269fd9\transformed\navigation-common-ktx-2.7.6\res
+com.example.soalria.app-play-services-base-18.0.1-23 C:\Users\ASUS\.gradle\caches\transforms-3\72cfbc7428b42cf8d4dfbd09a9987027\transformed\play-services-base-18.0.1\res
+com.example.soalria.app-core-1.9.0-24 C:\Users\ASUS\.gradle\caches\transforms-3\738147d0f85917708540e295877f94a3\transformed\core-1.9.0\res
+com.example.soalria.app-profileinstaller-1.3.0-25 C:\Users\ASUS\.gradle\caches\transforms-3\77d5a7dd47204633d73b86e2eac15830\transformed\profileinstaller-1.3.0\res
+com.example.soalria.app-navigation-ui-2.7.6-26 C:\Users\ASUS\.gradle\caches\transforms-3\7b30a85be06a29eeaaf15d3d86c88603\transformed\navigation-ui-2.7.6\res
+com.example.soalria.app-browser-1.4.0-27 C:\Users\ASUS\.gradle\caches\transforms-3\8859988ea198f1104dedc0882f3d8d46\transformed\browser-1.4.0\res
+com.example.soalria.app-lifecycle-runtime-2.6.2-28 C:\Users\ASUS\.gradle\caches\transforms-3\9a459b839ff48980919cebc5a8fac5e5\transformed\lifecycle-runtime-2.6.2\res
+com.example.soalria.app-firebase-common-20.4.2-29 C:\Users\ASUS\.gradle\caches\transforms-3\a3dee31292da657bed7a97e76c459299\transformed\firebase-common-20.4.2\res
+com.example.soalria.app-activity-ktx-1.8.0-30 C:\Users\ASUS\.gradle\caches\transforms-3\a450810ab616fcb511f575debac3225f\transformed\activity-ktx-1.8.0\res
+com.example.soalria.app-slidingpanelayout-1.2.0-31 C:\Users\ASUS\.gradle\caches\transforms-3\a6b21adbbe5fdecd39b87a105fc80db0\transformed\slidingpanelayout-1.2.0\res
+com.example.soalria.app-cardview-1.0.0-32 C:\Users\ASUS\.gradle\caches\transforms-3\a89cefa91747914e015c9a64ed022f38\transformed\cardview-1.0.0\res
+com.example.soalria.app-navigation-runtime-ktx-2.7.6-33 C:\Users\ASUS\.gradle\caches\transforms-3\ae04a2aab576f966920886fd5677ee0c\transformed\navigation-runtime-ktx-2.7.6\res
+com.example.soalria.app-play-services-maps-17.0.1-34 C:\Users\ASUS\.gradle\caches\transforms-3\aec667dd656bd2e552fa25493e77449b\transformed\play-services-maps-17.0.1\res
+com.example.soalria.app-navigation-fragment-ktx-2.7.6-35 C:\Users\ASUS\.gradle\caches\transforms-3\b5579e62fc1b9c434ec1d4471a24131b\transformed\navigation-fragment-ktx-2.7.6\res
+com.example.soalria.app-activity-1.8.0-36 C:\Users\ASUS\.gradle\caches\transforms-3\b64df17e3d8e430d5bd9159e39be7b3a\transformed\activity-1.8.0\res
+com.example.soalria.app-material-1.10.0-37 C:\Users\ASUS\.gradle\caches\transforms-3\c6066b7ed72342207299941b8297a607\transformed\material-1.10.0\res
+com.example.soalria.app-lifecycle-livedata-2.6.2-38 C:\Users\ASUS\.gradle\caches\transforms-3\c806a1f05b1e697abc86430c0c875fb5\transformed\lifecycle-livedata-2.6.2\res
+com.example.soalria.app-lifecycle-viewmodel-ktx-2.6.2-39 C:\Users\ASUS\.gradle\caches\transforms-3\cc3d18503401fab45e6e077f5368b008\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.soalria.app-core-runtime-2.2.0-40 C:\Users\ASUS\.gradle\caches\transforms-3\cf2f9c4114d1dbd21dce62b169d13ed4\transformed\core-runtime-2.2.0\res
+com.example.soalria.app-fragment-ktx-1.6.2-41 C:\Users\ASUS\.gradle\caches\transforms-3\d1803b28367685f97d3fbc7b64d7e458\transformed\fragment-ktx-1.6.2\res
+com.example.soalria.app-lifecycle-livedata-core-ktx-2.6.2-42 C:\Users\ASUS\.gradle\caches\transforms-3\d91247e9f223628d11cf2271f01a1513\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.example.soalria.app-coordinatorlayout-1.1.0-43 C:\Users\ASUS\.gradle\caches\transforms-3\d95da1194ffd2151a112bad77d42821b\transformed\coordinatorlayout-1.1.0\res
+com.example.soalria.app-drawerlayout-1.1.1-44 C:\Users\ASUS\.gradle\caches\transforms-3\e4beffb0de897e2df27746baefc47315\transformed\drawerlayout-1.1.1\res
+com.example.soalria.app-window-1.0.0-45 C:\Users\ASUS\.gradle\caches\transforms-3\eed22cf249e817f5b62fcf705825306d\transformed\window-1.0.0\res
+com.example.soalria.app-appcompat-resources-1.6.1-46 C:\Users\ASUS\.gradle\caches\transforms-3\f26d7682e72985517502dd76f8307a8b\transformed\appcompat-resources-1.6.1\res
+com.example.soalria.app-lifecycle-process-2.6.2-47 C:\Users\ASUS\.gradle\caches\transforms-3\f79b82b494d29be3194688f69da6b2fa\transformed\lifecycle-process-2.6.2\res
+com.example.soalria.app-savedstate-ktx-1.2.1-48 C:\Users\ASUS\.gradle\caches\transforms-3\fee751543f4ffc3d8c3ca7b39dcb69f1\transformed\savedstate-ktx-1.2.1\res
+com.example.soalria.app-pngs-49 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\build\generated\res\pngs\debug
+com.example.soalria.app-resValues-50 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\build\generated\res\resValues\debug
+com.example.soalria.app-packageDebugResources-51 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.soalria.app-packageDebugResources-52 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.soalria.app-merged_res-53 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\build\intermediates\merged_res\debug
+com.example.soalria.app-debug-54 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\src\debug\res
+com.example.soalria.app-main-55 D:\22.12.2624\semester 3\bp2\soalria14\soalria12\app\src\main\res

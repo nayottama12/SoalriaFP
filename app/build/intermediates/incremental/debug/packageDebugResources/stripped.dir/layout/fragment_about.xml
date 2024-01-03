@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FEE8D3"
+    android:layout_height="765dp"
+    tools:context=".AboutFragment">
+
+
+    <ImageView
+        android:id="@+id/imageAbout"
+        android:layout_width="412dp"
+        android:layout_height="329dp"
+        android:background="@drawable/bg"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <FrameLayout
+        android:id="@+id/layoutAbout"
+        android:layout_width="411dp"
+        android:layout_height="600dp"
+        android:background="@drawable/backround_rounded2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent">
+
+
+        <TextView
+            android:id="@+id/textViewAbout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:layout_marginTop="100dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+        <TextView
+            android:id="@+id/textViewAboutDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Soalria bermula dari sebuah impian untuk menciptakan pengalaman kuliner yang tak terlupakan. Berdiri sejak tahun 2010, restoran kami telah menjadi tempat yang dihormati di kalangan pencinta masakan kelas dunia."
+            android:layout_marginTop="130dp"
+            android:layout_marginStart="25dp"
+            android:textSize="12sp"
+            android:layout_marginEnd="25dp"
+            />
+
+        <TextView
+            android:id="@+id/textViewOpen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Openning Hour's"
+            android:layout_marginTop="200dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="234dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/baseline_access_time"
+            />
+
+
+        <TextView
+            android:id="@+id/textViewTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="52dp"
+            android:layout_marginTop="234dp"
+            android:text="08.00 am - 21.00 pm"
+            android:textColor="#7C7C6C" />
+
+        <TextView
+            android:id="@+id/textViewKontak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Contact"
+            android:layout_marginTop="270dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+        <ImageView
+            android:id="@+id/contact2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="302dp"
+            android:layout_marginStart="25dp"
+            android:src="@drawable/baseline_call"
+            />
+        <TextView
+            android:id="@+id/textViewContact2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="302dp"
+            android:layout_marginStart="52dp"
+            android:textColor="#7C7C6C"
+            android:text="+12345678" />
+
+        <ImageView
+            android:id="@+id/message"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="302dp"
+            android:layout_marginStart="150dp"
+            android:src="@drawable/baseline_message"
+            />
+        <TextView
+            android:id="@+id/textViewMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="302dp"
+            android:layout_marginStart="177dp"
+            android:textColor="#7C7C6C"
+            android:text="+87654321" />
+
+        <TextView
+            android:id="@+id/textViewAlamat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Address"
+            android:layout_marginTop="345dp"
+            android:layout_marginStart="25dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            />
+
+        <TextView
+            android:id="@+id/textViewAlamatDesc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jl. Ring Road Utara, Ngringin, Condongcatur, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281"
+            android:layout_marginTop="377dp"
+            android:layout_marginStart="25dp"
+            android:textSize="12sp"
+            android:layout_marginEnd="25dp"
+            />
+
+
+        <!-- Layout XML Anda -->
+        <fragment
+            android:id="@+id/mapFragmentAbout"
+            android:layout_width="360dp"
+            android:layout_height="170dp"
+            android:layout_marginTop="420dp"
+            android:layout_marginStart="25dp"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:apiKey="AIzaSyC7nL87MTJ_yCn4PZLQQE9GIVfQ-paTIIc" />
+
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/layoutAbout2"
+        android:layout_width="340dp"
+        android:layout_height="110dp"
+        android:background="@drawable/background_about"
+        android:backgroundTint="#FFF8E0"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.184"
+        tools:ignore="MissingConstraints" >
+
+        <TextView
+            android:id="@+id/textViewAboutjudul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="20dp"
+            android:text="Soalria - Jogja"
+            android:textColor="@color/black"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:id="@+id/location"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="65dp"
+            android:layout_marginStart="20dp"
+            android:src="@drawable/baseline_location_on_24"
+            />
+        <TextView
+            android:id="@+id/textViewAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="67dp"
+            android:layout_marginStart="46dp"
+            android:textColor="#7C7C6C"
+            android:text="Address" />
+
+        <ImageView
+            android:id="@+id/contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="65dp"
+            android:layout_marginStart="130dp"
+            android:src="@drawable/baseline_phone_android_24"
+            />
+        <TextView
+            android:id="@+id/textViewContact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="67dp"
+            android:layout_marginStart="156dp"
+            android:textColor="#7C7C6C"
+            android:text="Contact" />
+
+        <ImageView
+            android:id="@+id/browser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="65dp"
+            android:layout_marginStart="236dp"
+            android:src="@drawable/round_travel_explore_24"
+            />
+        <TextView
+            android:id="@+id/textViewBrowser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="67dp"
+            android:layout_marginStart="262dp"
+            android:textColor="#7C7C6C"
+            android:text="Browser" />
+
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+<!--
+
+-->
